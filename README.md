@@ -1,0 +1,2 @@
+# neochibot
+寝落ちした人をチャンネル移動させるDiscordボット
